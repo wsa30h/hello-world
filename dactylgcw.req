@@ -1,0 +1,57 @@
+ucft
+{
+    REQN
+    {
+    "bnk"
+    "align=2048"
+       "dactylgcw"
+    }
+
+    REQN
+    {
+    "config"
+    "global_world"
+      "dactylgcw"
+     "exp_obj"
+     "exp_obj_large"
+     "cw"
+     "gcw"
+     "gcw_vo"
+     "cw_vo"
+     "wok_vo"
+        "imp_hover_SPEEDERBIKE"
+        "imp_walk_atst"
+       "imp_hover_fightertank"
+        "cis_hover_mtt"
+        "cis_hover_aat"
+        "cis_hover_stap"
+        "imp_walk_atat"
+        "cis_fly_droidfighter"
+         "imp_fly_tie"
+          "cis_walk_spider"
+               "cis_tread_hailfire" 
+          "dactylgcw_foley"
+         "cw_foley_dirt_config"
+        "cw_foley_dirt"
+        "cw_foley_stone_config"
+        "cw_foley_stone"
+       "gcw_foley_dirt_config"
+       "gcw_foley_dirt"
+      "gcw_foley_stone_config"
+       "gcw_foley_stone"
+     "gcw_foley_waterdeep_config"
+      "gcw_foley_water"
+        "cw_foley_dirt_config"
+	"cw_foley_dirt"
+	"cw_foley_stone_config"
+		"cw_foley_stone"
+		 "cw_foley_waterdeep_config"
+        "cw_foley_water"  
+         "wok_foley_dirt_config"
+        "wok_foley_dirt"
+        "wok_foley_waterdeep_config"
+        "wok_foley_water"
+        
+        
+    }
+}
